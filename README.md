@@ -1,5 +1,5 @@
 # KELECHI-AI
-Private locally deployed personal assistant ai enginee.red for custom creative workflows and long term project memory
+Private locally deployed personal assistant ai engineered for custom creative workflows and long term project memory
 # K.E.L.E.C.H.I.
 ### Kinetic Electronic Learning Engine & Computational Heuristic Interface
 
